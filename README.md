@@ -1,6 +1,9 @@
 # bloodhound-quickwin
 Simple script to extract useful informations from the combo BloodHound + Neo4j. Can help to choose a target.
 
+![immagine](https://user-images.githubusercontent.com/56889513/117025078-dfb64d00-acfa-11eb-885b-2f07528c83bb.png)
+
+
 ## Prerequisites
 - python3
 ```bash
